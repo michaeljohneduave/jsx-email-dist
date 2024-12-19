@@ -63,9 +63,6 @@
     "email"
   ],
   "peerDependencies": {
-    "@jsx-email/plugin-inline": "workspace:^",
-    "@jsx-email/plugin-minify": "workspace:^",
-    "@jsx-email/plugin-pretty": "workspace:^",
     "react": "^18.2.0"
   },
   "dependencies": {
